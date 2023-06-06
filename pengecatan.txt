@@ -1,0 +1,3 @@
+{"tanggal":"1","bulan":"januari","tahun":"2023","panjang":"3","lebar":"3","tinggi":"3","cara pembayaran":"tunai","biaya cat":60000,"biaya tenaga kerja":30000,"total biaya":90000}
+{"tanggal":"1","bulan":"januari","tahun":"2023","panjang":"6","lebar":"6","tinggi":"6","cara pembayaran":"tunai","biaya cat":240000,"biaya tenaga kerja":120000,"total biaya":360000}
+{"tanggal":"1","bulan":"januari","tahun":"2023","panjang":"8","lebar":"9","tinggi":"8","cara pembayaran":"tunai","biaya cat":458666.6666666667,"biaya tenaga kerja":229333.33333333334,"total biaya":688000}
